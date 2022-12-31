@@ -7,7 +7,7 @@ https://github.com/CitronsBlog/Introduced Introduced<br/>
 
 <font color=red face="微软雅黑">非常感谢上述大佬的开源代码。</font>
 
-<a href="https://sx4.oyyandwjw.cn/" target="_blank">个人主页</a>
+<a href="./Personal profile/index.html" target="_blank">个人主页</a>
 <!-- <---点这里<br/> -->
 
 
